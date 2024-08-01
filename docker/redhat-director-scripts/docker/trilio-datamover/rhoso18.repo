@@ -1,0 +1,5 @@
+[rhoso18-beta]
+name=rhoso18-beta
+baseurl=http://trilio:XpmkpMFviqSe@repos.trilio.io:8283/rhoso18-beta/
+gpgcheck=0
+enabled=1
